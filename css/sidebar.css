@@ -1,0 +1,31 @@
+.sidebar{
+    height: 100%;
+    width: 250px;
+    position: absolute;
+    left: 0;
+    top: 50px;
+    padding-top: 40px;
+    background-color: #A3E4DB;
+}
+.sidebar .dashitem{
+    padding: 2px;
+    font-size: 24px;
+    font-size: 18px;
+}
+.body-text{
+    margin-left: 300px;
+    font-size: 18px;
+}
+.dashlink input{
+	border:0px;
+	margin:0px;
+	background-color: #A3E4DB;
+	color: black;
+	padding-top:1.5em;
+	transition: all 0.3s ease;
+	width: 150px;
+	font-weight: bold;
+}
+ul{
+    list-style-type: none;
+}
